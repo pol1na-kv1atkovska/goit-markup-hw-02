@@ -11,13 +11,10 @@
   font-weight: 500;
   color: #2e2f42;
 }
-
 .main-nav-list-link:hover,
 .main-nav-list-link:focus {
   color: #404bbf;
 }
-
-/* Address */
 
 .address {
 }

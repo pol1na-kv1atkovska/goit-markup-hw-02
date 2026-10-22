@@ -8,13 +8,13 @@
   text-align: center;
   color: #fff;
 }
+
 .btn {
   background-color: #4d5ae5;
   color: #fff;
   font-weight: 500;
   letter-spacing: 0.04em;
 }
-
 .btn:hover,
 .btn:focus {
   background-color: #404bbf;
